@@ -240,7 +240,6 @@ export default function App() {
             <span className="w-px h-3 bg-zinc-800" />
             <span>IEC 61000 · IEEE 519 Compliant</span>
           </div>
-          <span className="mono">© {new Date().getFullYear()} Industrial Monitoring Systems</span>
         </div>
       </footer>
     </div>
