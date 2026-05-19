@@ -158,7 +158,7 @@ export default function App() {
           </div>
 
           {/* Tabs (desktop) */}
-          {/* <div className="hidden md:flex items-center gap-1 bg-white/3 border border-white/6 rounded-lg p-1">
+          <div className="hidden md:flex items-center gap-1 bg-white/3 border border-white/6 rounded-lg p-1">
             {(["overview", "analysis"] as const).map((tab) => (
               <button
                 key={tab}
@@ -169,7 +169,7 @@ export default function App() {
                 {tab}
               </button>
             ))}
-          </div> */}
+          </div> 
 
           {/* Right side */}
           <div className="flex items-center gap-2">
