@@ -190,4 +190,3 @@ This project is licensed under the MIT License.
 
 # Author
 
-Developed for smart energy monitoring and analytics using modern web technologies.
